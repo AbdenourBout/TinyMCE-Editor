@@ -1,0 +1,2 @@
+# TinyMCE Editor
+ TinyMCE setup
